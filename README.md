@@ -35,5 +35,5 @@ This script does not take in `num_particles`.
 ## Repository Structure
 - `hybrid_integrator`, `planar_pusher`, `quadrotor_planner` define the respective physical systems
 - `planning` contains all planning-related code
-  - `*_examples` contains the scripts for running examples
+  - `*_examples` contain the scripts for running examples
   - `randup_rrt.py` implements RandUP-RRT
